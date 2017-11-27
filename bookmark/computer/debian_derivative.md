@@ -1,7 +1,8 @@
 ## List
 
 ## Program
-<details><summary>Program list</summary>
+<details>
+  <summary>Program list</summary>
       1. Gimp.<br>
          > add small desc, website, repo
 
