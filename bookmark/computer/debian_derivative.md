@@ -1,12 +1,12 @@
 ## List
 
 ## Program
-<details><summary>asdf</summary>
-  1. Gimp
-     > add small desc, website, repo
+<details><summary>Program list</summary>
+      1. Gimp.
+         > add small desc, website, repo
 
-  1. InkScape
-     > add small desc, website, repo
+      1. InkScape.
+         > add small desc, website, repo
 
 </details>
 
