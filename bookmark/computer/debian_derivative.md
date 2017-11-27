@@ -1,5 +1,14 @@
 ## List
 
+## Program
+<details><summary>asdf</summary>
+  1. Gimp
+     > add small desc, website, repo
+
+  1. InkScape
+     > add small desc, website, repo
+
+</details>
 
 ### Common problem
 1. How do I [continue][common1] configuration if apt-get was interrupted?
