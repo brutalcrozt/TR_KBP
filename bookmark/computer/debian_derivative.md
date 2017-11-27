@@ -2,10 +2,10 @@
 
 ## Program
 <details><summary>Program list</summary>
-      1. Gimp.
+      1. Gimp.<br>
          > add small desc, website, repo
 
-      1. InkScape.
+      1. InkScape.<br>
          > add small desc, website, repo
 
 </details>
