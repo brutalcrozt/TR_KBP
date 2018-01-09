@@ -131,3 +131,14 @@
 0. Lessons from the longest study on human development | Helen Pearson<br>
 [![](https://img.youtube.com/vi/8Dv2Hdf5TRg/0.jpg)](https://www.youtube.com/watch?v=8Dv2Hdf5TRg)<br>
    > Parenting and proverty matter on child development, parenting > proverty. You should listen to the science and the child themself to be a good parent.
+
+0. The power of believing that you can improve | Carol Dweck<br>
+[![](https://img.youtube.com/vi/_X0mgOOSpLU/0.jpg)](https://www.youtube.com/watch?v=_X0mgOOSpLU)<br>
+   > *you watch this using your friend's laptop.*
+
+0. The brain benefits of deep sleep -- and how to get more of it | Dan Gartenberg<br>
+[![](https://img.youtube.com/vi/1U2qMRGihGg/0.jpg)](https://www.youtube.com/watch?v=1U2qMRGihGg)<br>
+   > show the sounds that stimulate / maintain deep sleep, it's like delta wave that i heard to improve my sleep.
+
+How the food you eat affects your brain - Mia Nacamulli
+https://www.youtube.com/watch?v=xyQY8a-ng6g
