@@ -51,7 +51,7 @@
 
     - Solutions
       - make sure 7.0 and 7.1 disabled with `a2dismod`
-      - Purge with php7.2
+      - Purge with query php7.2
       - make sure 7.2 enabled with `a2enmod php7.2`
       - disable mbstring with `phpdismod`
       - enable mbstring with `phpenmod`

@@ -106,23 +106,23 @@
 
 0. The surprising beauty of mathematics<br>
  [![](https://img.youtube.com/vi/SEiSloE1r-A/0.jpg)](https://www.youtube.com/watch?v=SEiSloE1r-A)
-    > You are mathematically sexy
+    > You are mathematically sexy.
 
 0. How to Achieve Your Most Ambitious Goals by Stephen Duneier<br>
   [![](https://img.youtube.com/vi/TQMbvJNRpLE/0.jpg))](https://www.youtube.com/watch?v=TQMbvJNRpLE)
-   > Marginal improvement
+   > Marginal improvement!
 
 0. Motivate yourself with visions, goals and willpower by Hugo Kehr<br>
  [![](https://img.youtube.com/vi/iuIisjRIcVI/0.jpg))](https://www.youtube.com/watch?v=iuIisjRIcVI)
-   > Heart, head, and hand. 3 component for motivation
+   > Heart, head, and hand. 3 component for motivation.
 
 0. Art of Focus<br>
   [![](https://img.youtube.com/vi/xF80HzqvAoA/0.jpg))](https://www.youtube.com/watch?v=xF80HzqvAoA)
-   > summarize damn asshole
+   > summarize damn asshole!
 
 0. Why you feel what you feel by Alan Watkins<br>
 [![](https://img.youtube.com/vi/h-rRgpPbR5w/0.jpg))](https://www.youtube.com/watch?v=h-rRgpPbR5w)
-   > Control your emotion
+   > Control your emotion!
 
 0. The Discipline of Finishing<br>
 [![](https://img.youtube.com/vi/zXCiv4sc5eY/0.jpg)](https://www.youtube.com/watch?v=zXCiv4sc5eY)<br>
@@ -140,5 +140,17 @@
 [![](https://img.youtube.com/vi/1U2qMRGihGg/0.jpg)](https://www.youtube.com/watch?v=1U2qMRGihGg)<br>
    > show the sounds that stimulate / maintain deep sleep, it's like delta wave that i heard to improve my sleep.
 
-How the food you eat affects your brain - Mia Nacamulli
-https://www.youtube.com/watch?v=xyQY8a-ng6g
+1. How the food you eat affects your brain - Mia Nacamulli<br>
+[![](https://img.youtube.com/vi/xyQY8a-ng6g/0.jpg)](https://www.youtube.com/watch?v=xyQY8a-ng6g)<br>
+
+1. How to fix a broken heart | Guy Winch<br>
+[![](https://img.youtube.com/vi/k0GQSJrpVhM/0.jpg)](https://www.youtube.com/watch?v=k0GQSJrpVhM)<br>
+
+1. The Simple Cure for Loneliness | Baya Voce | TEDxSaltLakeCity<br>
+[![](https://img.youtube.com/vi/KSXh1YfNyVA/0.jpg)](https://www.youtube.com/watch?v=KSXh1YfNyVA)<br>
+
+1. The Skill of Humor | Andrew Tarvin | TEDxTAMU<br>
+[![](https://img.youtube.com/vi/MdZAMSyn_As/0.jpg)](https://www.youtube.com/watch?v=MdZAMSyn_As)<br>
+  > - builds trust
+  - improves understanding
+  - aids in learning
